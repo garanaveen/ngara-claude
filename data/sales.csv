@@ -1,0 +1,16 @@
+date,product,region,units,revenue,rep
+2025-01-05,Widget A,North,120,2400.00,Alice
+2025-01-07,Widget B,South,85,3400.00,Bob
+2025-01-10,Gadget X,East,200,10000.00,Carol
+2025-01-12,Widget A,West,95,1900.00,Dave
+2025-01-15,Gadget Y,North,60,9000.00,Alice
+2025-01-18,Widget B,East,140,5600.00,Bob
+2025-01-20,Gadget X,South,75,3750.00,Carol
+2025-01-22,Widget A,North,210,4200.00,Dave
+2025-01-25,Gadget Y,West,45,6750.00,Alice
+2025-01-28,Widget B,North,160,6400.00,Bob
+2025-02-02,Gadget X,West,90,4500.00,Carol
+2025-02-05,Widget A,South,175,3500.00,Dave
+2025-02-08,Gadget Y,East,110,16500.00,Alice
+2025-02-11,Widget B,West,130,5200.00,Bob
+2025-02-14,Gadget X,North,250,12500.00,Carol

@@ -1,0 +1,46 @@
+app:
+  name: ngara-playground
+  version: "1.0.0"
+  debug: false
+  log_level: info  # debug | info | warning | error
+
+server:
+  host: "0.0.0.0"
+  port: 8080
+  workers: 4
+  timeout: 30s
+  cors:
+    allowed_origins:
+      - "http://localhost:3000"
+      - "https://playground.example.com"
+    allow_credentials: true
+
+database:
+  driver: postgres
+  host: localhost
+  port: 5432
+  name: playground_db
+  pool:
+    min_size: 2
+    max_size: 10
+    timeout: 5s
+
+cache:
+  backend: redis
+  host: localhost
+  port: 6379
+  default_ttl: 300s
+  key_prefix: "playground:"
+
+features:
+  analytics: true
+  notifications: false
+  beta_ui: false
+  rate_limiting:
+    enabled: true
+    requests_per_minute: 60
+
+logging:
+  format: json
+  output: stdout
+  include_caller: true
