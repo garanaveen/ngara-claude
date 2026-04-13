@@ -2,7 +2,7 @@
 
 **Summary**: Massive urban park larger than Central Park, free to enter with paid museums inside. Best free half-day activity in San Francisco.
 
-**Sources**: Things to Do in San Francisco_ 2026 Guide to Neighborhoods, Costs & Insider Tips.md
+**Sources**: Things to Do in San Francisco_ 2026 Guide to Neighborhoods, Costs & Insider Tips.md, The 63 best things to do in San Francisco with kids.md
 
 **Last updated**: 2026-04-13
 
@@ -32,6 +32,39 @@ Golden Gate Park is larger than Central Park and "significantly more interesting
 - **Description**: Victorian greenhouse worth 45 minutes
 
 (source: Things to Do in San Francisco_ 2026 Guide to Neighborhoods, Costs & Insider Tips.md)
+
+### San Francisco Botanical Gardens
+- Discover the botanical gardens within the park for plant exploration
+- Great for gentle wanders under trees
+- Spot the windmills near Ocean Beach entrance
+
+(source: The 63 best things to do in San Francisco with kids.md)
+
+### California Academy of Sciences
+- **Location**: Within Golden Gate Park
+- **Features**: Planetarium, rainforest, aquarium, and 40,000 animals under one living roof
+- **Highlights**: All-digital planetarium (world's largest), African Penguin exhibit, rainforest dome, 2.5-acre living roof with wildflowers
+- **Temporary exhibition**: "The World's Largest Dinosaurs" (May 26-Jan 21, 2024) with 60-foot Mamenchisaurus model
+- Natural history museum combining multiple experiences in one location
+
+(source: The 63 best things to do in San Francisco with kids.md)
+
+## Kid-Friendly Features
+
+### Bison Paddock
+Spy live bison in the park - an unexpected urban wildlife encounter that fascinates children. (source: The 63 best things to do in San Francisco with kids.md)
+
+### Carousel
+Ride the carousel in Golden Gate Park for classic family fun. (source: The 63 best things to do in San Francisco with kids.md)
+
+### Rose Garden
+Stop and smell the roses at the dedicated rose garden - peaceful spot for families. (source: The 63 best things to do in San Francisco with kids.md)
+
+### Boat on the Lake
+Rent boats and spend time on Stow Lake - active recreation for families. (source: The 63 best things to do in San Francisco with kids.md)
+
+### De Young Family Activities
+Free Saturday family art activities including sketching and artwork creation, often themed around gallery collections or special exhibitions. Great for creative kids. (source: The 63 best things to do in San Francisco with kids.md)
 
 ## Best Free Activity
 

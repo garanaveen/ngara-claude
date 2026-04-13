@@ -2,7 +2,7 @@
 
 **Summary**: Historic prison island with excellent audio tour narrated by former inmates and guards. Most popular tour in San Francisco requiring 2+ weeks advance booking.
 
-**Sources**: Things to Do in San Francisco_ 2026 Guide to Neighborhoods, Costs & Insider Tips.md
+**Sources**: Things to Do in San Francisco_ 2026 Guide to Neighborhoods, Costs & Insider Tips.md, The 63 best things to do in San Francisco with kids.md
 
 **Last updated**: 2026-04-13
 
@@ -32,6 +32,14 @@ Alcatraz gets 1.5 million visitors per year. The Cellhouse Audio Tour is include
 **Mobility**: The island has significant uphill walking. Request the free tram from dock to cellhouse if mobility is a concern. (source: Things to Do in San Francisco_ 2026 Guide to Neighborhoods, Costs & Insider Tips.md)
 
 **Gardens**: The island has surprisingly beautiful gardens maintained by a historic garden program started by former inmates, still ongoing. Most visitors don't know about this. (source: Things to Do in San Francisco_ 2026 Guide to Neighborhoods, Costs & Insider Tips.md)
+
+## Family-Friendly Notes
+
+**Great for kids**: "Even young kids will be fascinated by the famous prison." The island has "plenty of space to run around as well as cells to hide in" - making it engaging for children. (source: The 63 best things to do in San Francisco with kids.md)
+
+**Immersive audio tour**: The audio tour helps kids understand the history of Alcatraz, its most notorious inmates, and why it was so hard to escape from. (source: The 63 best things to do in San Francisco with kids.md)
+
+**Unexpected beauty**: "The island is unexpectedly lovely to wander around, especially on a sunny day" - not just dark prison cells. (source: The 63 best things to do in San Francisco with kids.md)
 
 ## Departure Point
 

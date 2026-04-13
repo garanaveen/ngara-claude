@@ -2,7 +2,7 @@
 
 **Summary**: Latino neighborhood with the best food in San Francisco, famous for world-class burritos, murals, and Dolores Park. Where San Franciscans actually eat.
 
-**Sources**: Things to Do in San Francisco_ 2026 Guide to Neighborhoods, Costs & Insider Tips.md
+**Sources**: Things to Do in San Francisco_ 2026 Guide to Neighborhoods, Costs & Insider Tips.md, The 63 best things to do in San Francisco with kids.md
 
 **Last updated**: 2026-04-13
 
@@ -40,6 +40,17 @@ On a sunny afternoon, this is "peak San Francisco" - half the city is there with
 - Natural wine bars available
 
 (source: Things to Do in San Francisco_ 2026 Guide to Neighborhoods, Costs & Insider Tips.md)
+
+## Ice Cream and Desserts
+
+### Bi-Rite Creamery
+Unusual ice cream flavors beyond the ordinary - popular local spot. (source: The 63 best things to do in San Francisco with kids.md)
+
+### Humphry Slocombe
+Adventurous flavors ranging from blood orange to smoked s'mores. Also has a stand in the Ferry Building. (source: The 63 best things to do in San Francisco with kids.md)
+
+### 16th Avenue Mosaic Steps
+Check out 163 tiled steps put together by 300+ local people. Features fish, birds, sun, moon, and stars with bright colors and intricate designs that constantly change as you climb. Great photo spot for families. (source: The 63 best things to do in San Francisco with kids.md)
 
 ## Getting There
 

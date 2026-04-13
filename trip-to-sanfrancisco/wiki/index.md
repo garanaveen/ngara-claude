@@ -5,6 +5,7 @@
 ## Sources
 
 - [[skysonar-sf-guide-2026]] - Comprehensive San Francisco travel guide with neighborhoods, costs, and insider tips (March 2026)
+- [[mummytravels-sf-kids-2026]] - Family-focused guide with 63 kid-friendly activities (February 2026)
 
 ## Attractions
 
@@ -31,4 +32,5 @@
 ## Planning
 
 - [[three-day-itinerary]] - Optimal 3-day first visit to San Francisco
+- [[san-francisco-with-kids]] - Family-friendly activities, museums, wildlife, and kid-specific tips
 - [[safety-tips]] - Security and practical safety advice

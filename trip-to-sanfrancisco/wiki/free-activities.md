@@ -2,7 +2,7 @@
 
 **Summary**: San Francisco's best views and experiences are often free. Walk the Golden Gate Bridge, explore Golden Gate Park, hike coastal trails, and enjoy viewpoints at sunset.
 
-**Sources**: Things to Do in San Francisco_ 2026 Guide to Neighborhoods, Costs & Insider Tips.md
+**Sources**: Things to Do in San Francisco_ 2026 Guide to Neighborhoods, Costs & Insider Tips.md, The 63 best things to do in San Francisco with kids.md
 
 **Last updated**: 2026-04-13
 
@@ -62,6 +62,49 @@ Beach-level view of the [[golden-gate-bridge]]. (source: Things to Do in San Fra
 - Walk through Chinatown
 
 All neighborhood walking is free. The actual character of San Francisco is in the neighborhoods, not the paid attractions.
+
+## Free Kid-Friendly Activities
+
+### Wave Organ
+- Organ pipes transform tide movements into music/sounds
+- Located at the marina beyond Golden Gate yacht club
+- "Most unusual concert you'll hear in the city"
+- Completely free and child-friendly
+
+(source: The 63 best things to do in San Francisco with kids.md)
+
+### Wild Parrots of Telegraph Hill
+- Spot bright green cherry-headed conures with vibrant red heads
+- Live on Telegraph Hill near Coit Tower or at Sue Bierman Park near Ferry Building
+- Free wildlife watching in urban setting
+
+(source: The 63 best things to do in San Francisco with kids.md)
+
+### Musée Mécanique
+- 300+ early-20th century arcade games at Fisherman's Wharf
+- Free to enter (pay per game with coins)
+- Great for kids who love vintage games
+
+(source: The 63 best things to do in San Francisco with kids.md)
+
+### Golden Gate Fortune Cookie Factory
+- Chinatown location
+- Free to visit (tips/purchases encouraged, especially for photos)
+- See how fortunes get inside cookies
+
+(source: The 63 best things to do in San Francisco with kids.md)
+
+### Bison Viewing
+- Free to spot live bison in [[golden-gate-park]]
+- Unexpected urban wildlife encounter
+
+(source: The 63 best things to do in San Francisco with kids.md)
+
+### Labyrinth
+- Discover the labyrinth for meditative walking
+- Free outdoor maze experience
+
+(source: The 63 best things to do in San Francisco with kids.md)
 
 ## Related pages
 
